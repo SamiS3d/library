@@ -1,0 +1,3 @@
+#define FILTER_WINDOW 10
+#define SMT100_RX_PIN 26
+#define SMT100_TX_PIN 27
